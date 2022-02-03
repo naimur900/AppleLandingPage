@@ -51,7 +51,7 @@ body {
 }
 .banner-section-3{
   height: 600px;
-  background-image: url(AppleLandingPage/images/banner3.jpg);
+  background-image: url(../images/banner3.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -77,14 +77,14 @@ body {
     margin-right: auto;
 }
 .grid-section-2{
-  background-image: url(AppleLandingPage/images/grid-pic-2.png);
+  background-image: url(../images/grid-pic-2.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 
 }
 .grid-section-4{
-  background-image: url(AppleLandingPage/images/grid-pic-4.png);
+  background-image: url(../images/grid-pic-4.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -96,7 +96,7 @@ body {
   margin-right: auto;
 }
 .grid-section-6{
-  background-image: url(AppleLandingPage/images/grid-pic-6.png);
+  background-image: url(../images/grid-pic-6.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
