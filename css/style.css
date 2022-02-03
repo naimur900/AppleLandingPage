@@ -1,0 +1,103 @@
+body {
+  background-color: #fbfbfd;
+}
+.navbar-brand {
+  display: none;
+}
+@media screen and (max-width: 1000px) {
+  #apple-icon {
+    display: none;
+  }
+  .navbar-brand {
+    display: block;
+  }
+}
+.nav-link {
+  margin: 0px 10px;
+  font-size: 13px;
+}
+.fa-apple {
+  font-size: 19px;
+}
+.fa-search,
+.fa-shopping-bag {
+  font-size: 16px;
+}
+.notice {
+  font-size: 14px;
+  text-align-last: center;
+  background-color: rgb(231, 231, 231);
+}
+.container-fl-1 {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+.banner-section-1 img {
+  display: block;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.banner-section-2 {
+  background-color: #35283c;
+}
+.banner-section-2 img {
+  display: block;
+  width: 55%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.banner-section-3{
+  height: 600px;
+  background-image: url(/images/banner3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.container-fl-2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+.grid-section-1 img {
+  display: block;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.grid-section-3{
+    background-color: #f8f1f8;
+}
+.grid-section-3 img{
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.grid-section-2{
+  background-image: url(/images/grid-pic-2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.grid-section-4{
+  background-image: url(/images/grid-pic-4.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.grid-section-5 img{
+  display: block;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.grid-section-6{
+  background-image: url(/images/grid-pic-6.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
